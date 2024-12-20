@@ -1,16 +1,38 @@
-## Hi there 👋
+# Les basiques des markdown
 
-<!--
-**cyflyr/cyflyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## titre 2
 
-Here are some ideas to get you started:
+### titre 3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C'est un message en **gras** et en *italique*
+
+### Faire des listes :
+- item 1
+- item 2
+  - item 2.1
+  - item 2.2
+  - item 2.3
+- item 3
+
+1. Item 1
+2. Item 2
+    1. item 2.1
+    2. item 2.2
+
+### To-Do :
+- [X] Action 1
+- [ ] Action 2
+
+### Code :
+```C
+int main() {
+    return 0;
+}
+```
+
+### Images  :
+![Chien](https://picsum.photos/id/237/200/300)
+
+### Equations :
+$$ x^n + y^n = z^n $$
+
