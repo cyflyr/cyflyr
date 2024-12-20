@@ -4,5 +4,5 @@
 
 - 🌱 Currently learning **C**
 - 🔒 I have some basic knowledge of :
-  - **Pyhton**
-  - **HTML**, **CSS**
+  - **Pyhton**.
+  - **HTML**, **CSS**.
